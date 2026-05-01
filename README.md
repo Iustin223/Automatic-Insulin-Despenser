@@ -20,5 +20,5 @@ This project implements a control system using the Kessler and polls methods for
 The system achieves stable response with controlled overshoot.
 
 ## Preview
-![Block Diagram](images\Screenshot 2026-05-01 174705.png)
-![Step Response](images\Screenshot 2026-05-01 174737.png)
+![Block Diagram](images/scheme.png)
+![Step Response](images/simulation.png)
